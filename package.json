@@ -1,0 +1,13 @@
+{
+  "name": "spectacle-prism-reason",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.8.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "spectacle": "^4.3.1",
+    "spectacle-code-slide": "^0.5.2"
+  }
+}
